@@ -4,7 +4,7 @@
 
 
 <br><br>
-<b>CONTEXTO:</b><i>Algumas soluções podem impactar muitas pessoas, ainda mais na
+<b>CONTEXTO:</b> <i>Algumas soluções podem impactar muitas pessoas, ainda mais na
 tecnologia. Que tal criar uma ferramenta no terminal que vai auxiliar
 desenvolvedores no dia a dia com CSS?</i><br>
 
