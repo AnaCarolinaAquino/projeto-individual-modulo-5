@@ -3,7 +3,7 @@ import chalk from 'chalk'
 
 
 
-let array = ["align-items", "background-color", "border-radius"] //Define uma variável global para ser utilizada por todas as funções//
+let array = ["align-items", "background-color", "border-radius"] //Define uma variável global para ser utilizada por todas as funções.//
 
 listaCSS()
 //Define uma função que vai apresentar o menu inicial com as opções disponíveis para rodar na aplicação.//
