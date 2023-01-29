@@ -60,21 +60,21 @@ $ npm start
 
 <b>Abaixo consta exemplos de testes realizados na aplicação desenvolvida.</b><br><br>
 
-Menu Inicial:<br>
+<b>Menu Inicial:</b><br>
 ![npm-start-menu-inicial](https://user-images.githubusercontent.com/113844035/215296776-1a3ad005-bd06-4f5a-98f9-1e849a8118fd.png)
-<br>
-Exibir lista de propriedades CSS:<br>
+<br><br>
+<b>Exibir lista de propriedades CSS:</b><br>
 ![exibir-lista-css](https://user-images.githubusercontent.com/113844035/215296800-12707608-4002-4d2b-9569-b6da20217869.png)
-<br>        
-Adicionar propriedade CSS na lista:<br>
+<br><br>        
+<b>Adicionar propriedade CSS na lista:</b><br>
 ![adicionar-itens-css](https://user-images.githubusercontent.com/113844035/215296819-c96d7a19-cf33-4487-842b-3e724d87ad52.png)
-<br>
-Adicionar propriedade CSS que já esteja na lista:<br><br>
+<br><br>
+<b>Adicionar propriedade CSS que já esteja na lista:</b><br>
 ![adicionar-propriedade-repetida](https://user-images.githubusercontent.com/113844035/215296839-c4115af5-ee3e-4a49-8db8-7d4b28d6a6be.png)
-<br>
-Remover propriedade CSS da lista:<br>
+<br><br>
+<b>Remover propriedade CSS da lista:</b><br>
 ![remover-itens](https://user-images.githubusercontent.com/113844035/215296860-ccd7a94a-6348-4c01-91e3-cb0174f9e8ab.png)
-<br>
-Sair da aplicação:<br>
+<br><br>
+<b>Sair da aplicação:</b><br>
 ![sair](https://user-images.githubusercontent.com/113844035/215296871-016fdd85-196d-44bd-a8ba-014ffc14a5a1.png)
-<br>
+<br><br>
