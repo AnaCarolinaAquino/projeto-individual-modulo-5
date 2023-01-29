@@ -58,7 +58,7 @@ $ npm start
 ## Testes da Aplicação
 
 
-<b>Abaixo consta exemplos de testes realizados na aplicação desenvolvida.</b><br><br>
+Abaixo consta exemplos de testes realizados na aplicação desenvolvida.<br><br>
 
 <b>Menu Inicial:</b><br>
 ![npm-start-menu-inicial](https://user-images.githubusercontent.com/113844035/215296776-1a3ad005-bd06-4f5a-98f9-1e849a8118fd.png)
