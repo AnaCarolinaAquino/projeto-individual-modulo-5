@@ -61,7 +61,7 @@ $ npm start
 <b>Abaixo consta exemplos de testes realizados na aplicação desenvolvida.</b><br><br>
 
 Menu Inicial:
-![npm-start-menu-inicial](https://user-images.githubusercontent.com/113844035/215296776-1a3ad005-bd06-4f5a-98f9-1e849a8118fd.png)
+<p>![npm-start-menu-inicial](https://user-images.githubusercontent.com/113844035/215296776-1a3ad005-bd06-4f5a-98f9-1e849a8118fd.png)</p>
 <br>
 Exibir lista de propriedades CSS:
 ![exibir-lista-css](https://user-images.githubusercontent.com/113844035/215296800-12707608-4002-4d2b-9569-b6da20217869.png)
