@@ -72,7 +72,7 @@ function listaCSS() {
 
   }
 
-  //Definde uma função para inserir itens na lista de propriedades CSS.//
+  //Define uma função para inserir itens na lista de propriedades CSS.//
   function insertItens() {
     inquirer
       .prompt([
@@ -97,7 +97,7 @@ function listaCSS() {
       })
   }
 
-  //Definde uma função para remover itens da lista de propriedades CSS.//
+  //Define uma função para remover itens da lista de propriedades CSS.//
   function removeItens(){
     inquirer
       .prompt([
@@ -128,7 +128,7 @@ function listaCSS() {
       })
    }
 
-  //Definde uma função para encerrar a aplicação exibindo a lista de propriedades CSS e uma mensagem de encerramento.//  
+  //Define uma função para encerrar a aplicação exibindo a lista de propriedades CSS e uma mensagem de encerramento.//  
   function sair(){
     console.log("lista CSS:", array.sort())
     console.log(chalk.bgYellow.black('FIM !!!'))
