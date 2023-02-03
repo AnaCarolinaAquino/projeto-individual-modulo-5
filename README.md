@@ -1,6 +1,6 @@
 <h1>Curso Programadores Cariocas</h1>
 
-<h3>Projeto Individual Módulo 5 – Resilia</h3>
+<h3>Projeto Individual Módulo 5 – Tecnologias server-side/back-end</h3>
 
 
 <br><br>
