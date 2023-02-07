@@ -14,7 +14,7 @@ desenvolvedores no dia a dia com CSS?</i><br>
 ## Índice
 * [Informações Gerais](#informações-Gerais)
 * [Tecnologias](#tecnologias)
-* [Configuração](#configurações)
+* [Configurações](#configurações)
 
 <br><br>
 
