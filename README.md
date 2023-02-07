@@ -12,7 +12,7 @@ desenvolvedores no dia a dia com CSS?</i><br>
 <br>
 
 ## Índice
-* [Informações Gerais](#informações Gerais)
+* [Informações Gerais](#informações-Gerais)
 * [Tecnologias](#tecnologias)
 * [Configuração](#configurações)
 
